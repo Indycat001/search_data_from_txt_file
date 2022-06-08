@@ -1,0 +1,5 @@
+package com.pps.enumeration;
+
+public enum StatusText {
+	OK, ERROR, NOT_FOUND, FILE_EXTENTION_ERROR, FILE_COLUMN_ERROR, DUPLICATE, NOT_DELETE, ACTIVE,INPROGRESS;
+}
